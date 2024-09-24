@@ -1,4 +1,4 @@
-hi {font-family: "arial";
+hi {font-family: "arial", "times new roman";
     font-size:48pt;
     font-weight:"bold";
     color:"white";
